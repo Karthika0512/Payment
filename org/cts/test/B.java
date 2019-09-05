@@ -26,6 +26,8 @@ public class B {
 	else {
 		System.out.println("greater than 10");
 	}
+	System.out.println("done");
 	}
+	
 
 }

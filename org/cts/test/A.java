@@ -25,5 +25,5 @@ public class A {
 			}
 		}
 		d.findElement(By.xpath("//input[@value='Add to Cart']")).click();
-
+System.out.println("done");
 }}
